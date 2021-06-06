@@ -12,6 +12,7 @@
 ## Handover
 link to the digital prototype:
 <https://www.figma.com/community/file/982588214830915255>
+
 No password or special access required.
 
 ## Table of contents
