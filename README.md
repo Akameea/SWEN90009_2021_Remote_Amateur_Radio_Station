@@ -10,37 +10,35 @@
 |5|SWEN90009_2021_RLSE_RR_Koala|Sprint_5|
 
 ## Table of contents
-[Requirements Specification](Specification)
-- [Project Overview](RARS-ProjectOverview-210321-2135-530.pdf)
-- [Interview Guide](RARS-InterviewGuide-210321-2137-532.pdf)
-- [Question Prepared Guideline](RARS-QuestionPreparedGuideline-210321-2137-534.pdf)
-- [Team Management](RARS-TeamManagement-210321-2137-536.pdf)
-- [Goal Model](RARS-GoalModel-detail.pdf)
-- [DO-BE-FEEL List](Do-Be-Feel List.pdf)
-- [Personas](RARS-Personas.pdf)
-- [User Stories](RARS-UserStories.pdf)
+[Requirements Specification](docs/requirements/Specification/)
+- [Project Overview](docs/requirements/Specification/RARS-ProjectOverview-210321-2135-530.pdf)
+- [Interview Guide](requirements/Specification/Requirements Elicitation/RARS-InterviewGuide-210321-2137-532.pdf)
+- [Question Prepared Guideline](requirements/Specification/Requirements Elicitation/RARS-QuestionPreparedGuideline-210321-2137-534.pdf)
+- [Team Management](requirements/Specification/Requirements Elicitation/RARS-TeamManagement-210321-2137-536.pdf)
+- [Goal Model](docs/requirements/Goal Model/Goal Model - detail/RARS-GoalModel-detail.pdf)
+- [DO-BE-FEEL List](docs/requirements/Goal Model/Do-Be-Feel List/Do-Be-Feel List.pdf)
+- [Personas](docs/requirements/Personas/RARS-Personas.pdf)
+- [User Stories](docs/requirements/User Stories/RARS-UserStories.pdf)
 
-[Mood Board](RARS-MoodBoard.pdf)
+[Mood Board](docs/Mood Board/RARS-MoodBoard.pdf)
 
-[Requirement Traceability Matrix](RARS-RequirementTraceabilityMatrix.pdf)
+[Requirement Traceability Matrix](docs/RequirementTraceabilityMatrix/RARS-RequirementTraceabilityMatrix.pdf)
 
-[Data Samples](RARS-DataSample.pdf)
+[Data Samples](data samples/RARS-DataSample.pdf)
 
-[Prototypes](prototypes)
-- [Paper Prototype](RARS-PaperPrototype.pdf)
-- [Digital Prototype](RARS-DigitalPrototype.pdf)
+[Prototypes](prototypes/prototypes)
+- [Paper Prototype](prototypes/low fidelity/RARS-PaperPrototype.pdf)
+- [Digital Prototype](prototypes/high fidelity/RARS-DigitalPrototype.pdf)
 
 [tests](tests)
-
-[Acceptance Criteria](RARS-AcceptanceCriteria.pdf)
-
-[Acceptance Test](RARS-AcceptanceTest.pdf)
+- [Acceptance Criteria](tests/Acceptance Criteria/RARS-AcceptanceCriteria.pdf)
+- [Acceptance Test](tests/Acceptance test/RARS-AcceptanceTest.pdf)
 
 [UI](ui)
 
-[Meeting Minutes](Team meeings)
+[Meeting Minutes](docs/meeting minutes/Team meeings/)
 
-[Final Presentation](presentation_leichen.pdf)
+[Final Presentation](docs/meeting minutes/Team meeings/presentation_leichen.pdf)
 
 ## Changelog
 [Sprints changelog](CHANGELOG.md)
