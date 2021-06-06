@@ -26,7 +26,7 @@
 
 [Data Samples](data%20samples/RARS-DataSample.pdf)
 
-[Prototypes](prototypes/prototypes)
+[Prototypes](prototypes)
 - [Paper Prototype](prototypes/low%20fidelity/RARS-PaperPrototype.pdf)
 - [Digital Prototype](prototypes/high%20fidelity/RARS-DigitalPrototype.pdf)
 
