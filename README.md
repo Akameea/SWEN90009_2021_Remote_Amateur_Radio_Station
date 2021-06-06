@@ -12,9 +12,9 @@
 ## Table of contents
 [Requirements Specification](docs/requirements/Specification/)
 - [Project Overview](docs/requirements/Specification/RARS-ProjectOverview-210321-2135-530.pdf)
-- [Interview Guide](requirements/Specification/Requirements%20Elicitation/RARS-InterviewGuide-210321-2137-532.pdf)
-- [Question Prepared Guideline](requirements/Specification/Requirements%20Elicitation/RARS-QuestionPreparedGuideline-210321-2137-534.pdf)
-- [Team Management](requirements/Specification/Requirements%20Elicitation/RARS-TeamManagement-210321-2137-536.pdf)
+- [Interview Guide](docs/requirements/Specification/Requirements%20Elicitation/RARS-InterviewGuide-210321-2137-532.pdf)
+- [Question Prepared Guideline](docs/requirements/Specification/Requirements%20Elicitation/RARS-QuestionPreparedGuideline-210321-2137-534.pdf)
+- [Team Management](docs/requirements/Specification/Requirements%20Elicitation/RARS-TeamManagement-210321-2137-536.pdf)
 - [Goal Model](docs/requirements/Goal%20Model/Goal%20Model%20-%20detail/RARS-GoalModel-detail.pdf)
 - [DO-BE-FEEL List](docs/requirements/Goal%20Model/Do-Be-Feel%20List/Do-Be-Feel%20List.pdf)
 - [Personas](docs/requirements/Personas/RARS-Personas.pdf)
