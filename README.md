@@ -38,7 +38,7 @@
 
 [Meeting Minutes](docs/meeting%20minutes/Team%20meeings/)
 
-[Final Presentation](docs/meeting%20minutes/Team%20meeings/presentation_leichen.pdf)
+[Final Presentation](docs/Final%20Presentation/presentation_leichen.pdf)
 
 ## Changelog
 [Sprints changelog](CHANGELOG.md)
