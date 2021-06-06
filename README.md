@@ -12,33 +12,33 @@
 ## Table of contents
 [Requirements Specification](docs/requirements/Specification/)
 - [Project Overview](docs/requirements/Specification/RARS-ProjectOverview-210321-2135-530.pdf)
-- [Interview Guide](requirements/Specification/Requirements Elicitation/RARS-InterviewGuide-210321-2137-532.pdf)
-- [Question Prepared Guideline](requirements/Specification/Requirements Elicitation/RARS-QuestionPreparedGuideline-210321-2137-534.pdf)
-- [Team Management](requirements/Specification/Requirements Elicitation/RARS-TeamManagement-210321-2137-536.pdf)
-- [Goal Model](docs/requirements/Goal Model/Goal Model - detail/RARS-GoalModel-detail.pdf)
-- [DO-BE-FEEL List](docs/requirements/Goal Model/Do-Be-Feel List/Do-Be-Feel List.pdf)
+- [Interview Guide](requirements/Specification/Requirements%20Elicitation/RARS-InterviewGuide-210321-2137-532.pdf)
+- [Question Prepared Guideline](requirements/Specification/Requirements%20Elicitation/RARS-QuestionPreparedGuideline-210321-2137-534.pdf)
+- [Team Management](requirements/Specification/Requirements%20Elicitation/RARS-TeamManagement-210321-2137-536.pdf)
+- [Goal Model](docs/requirements/Goal%20Model/Goal Model%20-%20detail/RARS-GoalModel-detail.pdf)
+- [DO-BE-FEEL List](docs/requirements/Goal Model/Do-Be-Feel%20List/Do-Be-Feel%20List.pdf)
 - [Personas](docs/requirements/Personas/RARS-Personas.pdf)
-- [User Stories](docs/requirements/User Stories/RARS-UserStories.pdf)
+- [User Stories](docs/requirements/User%20Stories/RARS-UserStories.pdf)
 
-[Mood Board](docs/Mood Board/RARS-MoodBoard.pdf)
+[Mood Board](docs/Mood%20Board/RARS-MoodBoard.pdf)
 
 [Requirement Traceability Matrix](docs/RequirementTraceabilityMatrix/RARS-RequirementTraceabilityMatrix.pdf)
 
-[Data Samples](data samples/RARS-DataSample.pdf)
+[Data Samples](data%20samples/RARS-DataSample.pdf)
 
 [Prototypes](prototypes/prototypes)
-- [Paper Prototype](prototypes/low fidelity/RARS-PaperPrototype.pdf)
-- [Digital Prototype](prototypes/high fidelity/RARS-DigitalPrototype.pdf)
+- [Paper Prototype](prototypes/low%20fidelity/RARS-PaperPrototype.pdf)
+- [Digital Prototype](prototypes/high%20fidelity/RARS-DigitalPrototype.pdf)
 
 [tests](tests)
-- [Acceptance Criteria](tests/Acceptance Criteria/RARS-AcceptanceCriteria.pdf)
-- [Acceptance Test](tests/Acceptance test/RARS-AcceptanceTest.pdf)
+- [Acceptance Criteria](tests/Acceptance%20Criteria/RARS-AcceptanceCriteria.pdf)
+- [Acceptance Test](tests/Acceptance%20test/RARS-AcceptanceTest.pdf)
 
 [UI](ui)
 
-[Meeting Minutes](docs/meeting minutes/Team meeings/)
+[Meeting Minutes](docs/meeting%20minutes/Team%20meeings/)
 
-[Final Presentation](docs/meeting minutes/Team meeings/presentation_leichen.pdf)
+[Final Presentation](docs/meeting%20minutes/Team%20meeings/presentation_leichen.pdf)
 
 ## Changelog
 [Sprints changelog](CHANGELOG.md)
