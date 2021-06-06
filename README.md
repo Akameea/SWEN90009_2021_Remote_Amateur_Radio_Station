@@ -9,6 +9,10 @@
 |4|SWEN90009_2021_RARS_Koala_BL_SPRINT4|Sprint_4|
 |5|SWEN90009_2021_RLSE_RR_Koala|Sprint_5|
 
+## Handover
+link to the digital prototype:
+<https://www.figma.com/community/file/982588214830915255>
+
 ## Table of contents
 [Requirements Specification](docs/requirements/Specification/)
 - [Project Overview](docs/requirements/Specification/RARS-ProjectOverview-210321-2135-530.pdf)
